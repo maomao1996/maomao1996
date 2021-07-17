@@ -1,5 +1,7 @@
 ### Hi there, I'm maomao1996 👋
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=maomao1996.maomao1996)
+
 啥也不会的前端混子
 
 **Languages and Tools:**  
