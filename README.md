@@ -1,5 +1,7 @@
 ### Hi there, I'm maomao1996 👋
 
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+
 [![visitors](https://visitor-badge.glitch.me/badge?page_id=maomao1996.maomao1996)](https://github.com/maomao1996)
 
 <pre>
