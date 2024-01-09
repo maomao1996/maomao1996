@@ -5,17 +5,16 @@
                               -- 一个想躺平的小开发
 </pre>
 
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+**About Me:** <img src="https://visitor-badge.laobi.icu/badge?page_id=maomao1996.maomao1996" align="center" alt="visitors">
 
-**About Me:**
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="260" align="right" alt="">
 
-[![fe-mm](https://img.shields.io/badge/MAOMAO1996-4285F4?logo=GoogleHome&logoColor=fff)](https://fe-mm.com)
-[![茂茂物语](https://img.shields.io/badge/茂茂物语-4ABF8A?logo=Bloglovin&logoColor=fff)](https://notes.fe-mm.com)
-[![日常笔记](https://img.shields.io/badge/日常笔记-0D0D0D?logo=Dailymotion&logoColor=fff)](https://github.com/maomao1996/daily-notes)
-[![mmPlayer](https://img.shields.io/badge/mmPlayer-6666CC?logo=AppleMusic&logoColor=fff)](https://netease-music.fe-mm.com)
-[![Tampermonkey](https://img.shields.io/badge/油猴脚本库-00485B?logo=Tampermonkey&logoColor=fff)](https://github.com/maomao1996/tampermonkey-scripts)<br />
-[![GitHub Stars](https://img.shields.io/github/stars/maomao1996?color=2da44e&label=GitHub%20Stars&logo=Github)](https://github.com/maomao1996)
-[![visitors](https://visitor-badge.laobi.icu/badge?page_id=maomao1996.maomao1996)](https://github.com/maomao1996)
+|   主&emsp;页   | <https://fe-mm.com>                                      |
+| :------------: | :------------------------------------------------------- |
+| **博&emsp;客** | **<https://notes.fe-mm.com>**                            |
+| **笔&emsp;记** | **<https://github.com/maomao1996/daily-notes>**          |
+|   **播放器**   | **<https://netease-music.fe-mm.com>**                    |
+| **油&emsp;猴** | **<https://github.com/maomao1996/tampermonkey-scripts>** |
 
 **Languages:**
 
